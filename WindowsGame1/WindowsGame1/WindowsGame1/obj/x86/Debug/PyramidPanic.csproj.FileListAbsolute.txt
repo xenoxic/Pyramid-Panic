@@ -1,0 +1,14 @@
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Background.xnb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Title.xnb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\PyramidPanic.exe
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\PyramidPanic.pdb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\PyramidPanic.exe
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\PyramidPanic.pdb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Button_help.xnb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Button_leveleditor.xnb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Button_load.xnb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Button_quit.xnb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Button_scores.xnb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Button_start.xnb
