@@ -2,24 +2,6 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
-      <Source>StartSceneAssets\Background.png</Source>
-      <Name>StartSceneAssets\Background</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Background.xnb</Output>
-      <Time>2012-11-09T09:48:33.394062+01:00</Time>
-    </Item>
-    <Item>
-      <Source>StartSceneAssets\Title.png</Source>
-      <Name>StartSceneAssets\Title</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Title.xnb</Output>
-      <Time>2012-11-09T09:48:43.2410918+01:00</Time>
-    </Item>
-    <Item>
       <Source>StartSceneAssets\Button_help.png</Source>
       <Name>StartSceneAssets\Button_help</Name>
       <Importer>TextureImporter</Importer>
@@ -72,6 +54,24 @@
       <Options>None</Options>
       <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Button_start.xnb</Output>
       <Time>2012-11-09T11:11:57.7333724+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StartSceneAssets\Background.png</Source>
+      <Name>StartSceneAssets\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Background.xnb</Output>
+      <Time>2012-11-09T09:48:33.394062+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StartSceneAssets\Title.png</Source>
+      <Name>StartSceneAssets\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Title.xnb</Output>
+      <Time>2012-11-09T09:48:43.2410918+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

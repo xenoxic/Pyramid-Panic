@@ -9,49 +9,43 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
-
 namespace PyramidPanic
 {
-    public class StartScene : IStateGame
+    public class ScoreScene : IStateGame
     {
         //Fields
-        private Image background, title;
         private PyramidPanic game;
-        private MenuStartScene menu;
 
-        //Constructor
-        public StartScene(PyramidPanic game)
+        //Constuctor
+        public ScoreScene(PyramidPanic game)
         {
             this.game = game;
-            this.background = new Image(game, @"StartSceneAssets\Background", Vector2.Zero);
-            this.title = new Image(game, @"StartSceneAssets\Title", new Vector2(100f, 30f));
-            this.menu = new MenuStartScene(game);
-
+            this.Initialize();
         }
 
+        //Initialize
         public void Initialize()
         {
-
+            this.LoadContent();
         }
 
+        //Loadcontent
         public void LoadContent()
         {
 
         }
 
-
-        //Update
+        //Updata
         public void Update(GameTime gameTime)
         {
-            this.menu.Update(gameTime);
+
         }
 
         //Draw
         public void Draw(GameTime gameTime)
         {
-            this.background.Draw(this.game.SpriteBatch);
-            this.title.Draw(this.game.SpriteBatch);
-            this.menu.Draw(gameTime);
+            this.game.GraphicsDevice.Clear(Color.Gray);
         }
+
     }
 }

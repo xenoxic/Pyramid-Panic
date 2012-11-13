@@ -17,10 +17,17 @@ namespace PyramidPanic
         //Fields
         private GraphicsDeviceManager graphics;
         private SpriteBatch spriteBatch;
-        private StartScene startScene;
+
+        private IStateGame gameState;
  
 
         //Properties
+        public IStateGame GameState
+        {
+            get { return this.gameState; }
+            set { this.gameState = value; }
+        }
+
         public SpriteBatch SpriteBatch
         {
             get { return this.spriteBatch; }
@@ -50,7 +57,8 @@ namespace PyramidPanic
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             this.spriteBatch = new SpriteBatch(GraphicsDevice);
-            this.startScene = new StartScene(this);
+            this.gameState = new StartScene(this);
+
 
  
         }
@@ -61,15 +69,14 @@ namespace PyramidPanic
             // TODO: Unload any non ContentManager content here
         }
 
-
+        //Update
         protected override void Update(GameTime gameTime)
         {
             // Allows the game to exit
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
-
-            // TODO: Add your update logic here
-
+            Input.Update();
+            this.gameState.Update(gameTime);
             base.Update(gameTime);
         }
 
@@ -78,7 +85,7 @@ namespace PyramidPanic
         {
             this.GraphicsDevice.Clear(Color.Black);
             this.spriteBatch.Begin();
-            this.startScene.Draw(gameTime);
+            this.gameState.Draw(gameTime);
             this.spriteBatch.End();
             base.Draw(gameTime);
         }
