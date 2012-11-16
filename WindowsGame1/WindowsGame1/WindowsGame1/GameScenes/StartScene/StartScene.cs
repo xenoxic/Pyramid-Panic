@@ -44,6 +44,14 @@ namespace PyramidPanic
         public void Update(GameTime gameTime)
         {
             this.menu.Update(gameTime);
+            if (Input.EdgeDetectKeyDown(Keys.Escape))
+                {
+                    this.game.GameState = new StartScene(this.game);
+                }
+            if (Input.EdgeDetectKeyDown(Keys.Escape))
+            {
+                this.game.Exit();
+            }
         }
 
         //Draw
