@@ -57,8 +57,8 @@ namespace PyramidPanic
         //Draw
         public void Draw(GameTime gameTime)
         {
-            this.background.Draw(this.game.SpriteBatch);
-            this.title.Draw(this.game.SpriteBatch);
+            this.background.Draw(gameTime);
+            this.title.Draw(gameTime);
             this.menu.Draw(gameTime);
         }
     }

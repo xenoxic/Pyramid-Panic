@@ -73,6 +73,123 @@
       <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Title.xnb</Output>
       <Time>2012-11-09T09:48:43.2410918+01:00</Time>
     </Item>
+    <Item>
+      <Source>PlaySceneAssets\Block\Block.png</Source>
+      <Name>PlaySceneAssets\Block\Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Block\Block.xnb</Output>
+      <Time>2012-11-20T09:09:01.575167+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaySceneAssets\Block\Transparant.png</Source>
+      <Name>PlaySceneAssets\Block\Transparant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Block\Transparant.xnb</Output>
+      <Time>2012-11-20T09:09:01.5761671+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaySceneAssets\Block\Wall1.png</Source>
+      <Name>PlaySceneAssets\Block\Wall1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Block\Wall1.xnb</Output>
+      <Time>2012-11-23T09:02:58.5830484+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaySceneAssets\Block\Wall2.png</Source>
+      <Name>PlaySceneAssets\Block\Wall2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Block\Wall2.xnb</Output>
+      <Time>2012-11-23T09:02:59.3930948+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaySceneAssets\Background\Background2.png</Source>
+      <Name>PlaySceneAssets\Background\Background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Background\Background2.xnb</Output>
+      <Time>2012-11-23T09:15:40.9666543+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaySceneAssets\Treasures\Treasure1.png</Source>
+      <Name>PlaySceneAssets\Treasures\Treasure1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Treasures\Treasure1.xnb</Output>
+      <Time>2012-11-23T09:35:59.2620693+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaySceneAssets\Treasures\Treasure2.png</Source>
+      <Name>PlaySceneAssets\Treasures\Treasure2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Treasures\Treasure2.xnb</Output>
+      <Time>2012-11-23T09:36:03.9669376+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaySceneAssets\Treasures\Scarab.png</Source>
+      <Name>PlaySceneAssets\Treasures\Scarab</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Treasures\Scarab.xnb</Output>
+      <Time>2012-11-23T09:36:15.4901915+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaySceneAssets\Treasures\Potion.png</Source>
+      <Name>PlaySceneAssets\Treasures\Potion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Treasures\Potion.xnb</Output>
+      <Time>2012-11-23T09:36:31.3876999+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaySceneAssets\Block\Door.png</Source>
+      <Name>PlaySceneAssets\Block\Door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Block\Door.xnb</Output>
+      <Time>2012-11-23T09:58:56.3543255+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaySceneAssets\Panel\Panel.png</Source>
+      <Name>PlaySceneAssets\Panel\Panel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Panel\Panel.xnb</Output>
+      <Time>2012-11-23T10:38:03.3687046+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaySceneAssets\Panel\Lives.png</Source>
+      <Name>PlaySceneAssets\Panel\Lives</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Panel\Lives.xnb</Output>
+      <Time>2012-11-23T10:47:51.6623531+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaySceneAssets\Fonts\Arial.spritefont</Source>
+      <Name>PlaySceneAssets\Fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Fonts\Arial.xnb</Output>
+      <Time>2012-11-23T11:09:40.4652123+01:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

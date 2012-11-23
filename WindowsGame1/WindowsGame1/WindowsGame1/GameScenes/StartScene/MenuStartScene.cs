@@ -84,7 +84,7 @@ namespace PyramidPanic
                 (this.start.Rectangle.Intersects(Input.MouseRectangle()))) 
             {
                 this.buttonState = ButtonState.Start;
-                if (Input.MouseEdgeDetectPressLeft() && this.help.Rectangle.Intersects(Input.MouseRectangle()) || Input.EdgeDetectKeyDown(Keys.Enter))
+                if (Input.MouseEdgeDetectPressLeft() && this.start.Rectangle.Intersects(Input.MouseRectangle()) || Input.EdgeDetectKeyDown(Keys.Enter))
                 this.game.GameState = new PlayScene(this.game);  
             }
 
@@ -102,7 +102,7 @@ namespace PyramidPanic
                 (this.load.Rectangle.Intersects(Input.MouseRectangle())))
             {
                 this.buttonState = ButtonState.Load;
-                if (Input.MouseEdgeDetectPressLeft() && this.help.Rectangle.Intersects(Input.MouseRectangle()) || Input.EdgeDetectKeyDown(Keys.Enter))
+                if (Input.MouseEdgeDetectPressLeft() && this.load.Rectangle.Intersects(Input.MouseRectangle()) || Input.EdgeDetectKeyDown(Keys.Enter))
                 {
                     this.game.GameState = new LoadScene(this.game);
                 }
@@ -112,7 +112,7 @@ namespace PyramidPanic
                 (this.scores.Rectangle.Intersects(Input.MouseRectangle())))
             {
                 this.buttonState = ButtonState.Scores;
-                if (Input.MouseEdgeDetectPressLeft() && this.help.Rectangle.Intersects(Input.MouseRectangle()) || Input.EdgeDetectKeyDown(Keys.Enter))
+                if (Input.MouseEdgeDetectPressLeft() && this.scores.Rectangle.Intersects(Input.MouseRectangle()) || Input.EdgeDetectKeyDown(Keys.Enter))
                 {
                     this.game.GameState = new ScoreScene(this.game);
                 }
@@ -121,7 +121,7 @@ namespace PyramidPanic
                 (this.quit.Rectangle.Intersects(Input.MouseRectangle())))
             {
                 this.buttonState = ButtonState.Quit;
-                if (Input.MouseEdgeDetectPressLeft() && this.help.Rectangle.Intersects(Input.MouseRectangle()) || Input.EdgeDetectKeyDown(Keys.Enter))
+                if (Input.MouseEdgeDetectPressLeft() && this.quit.Rectangle.Intersects(Input.MouseRectangle()) || Input.EdgeDetectKeyDown(Keys.Enter))
                 {
                     this.game.GameState = new QuitScene(this.game);
                 }
@@ -130,7 +130,7 @@ namespace PyramidPanic
                 (this.leveleditor.Rectangle.Intersects(Input.MouseRectangle())))
             {
                 this.buttonState = ButtonState.LevelEditor;
-                if (Input.MouseEdgeDetectPressLeft() && this.help.Rectangle.Intersects(Input.MouseRectangle()) || Input.EdgeDetectKeyDown(Keys.Enter))
+                if (Input.MouseEdgeDetectPressLeft() && this.leveleditor.Rectangle.Intersects(Input.MouseRectangle()) || Input.EdgeDetectKeyDown(Keys.Enter))
                 {
                     this.game.GameState = new LevelEditorScene(this.game);
                 }

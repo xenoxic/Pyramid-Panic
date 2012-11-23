@@ -38,7 +38,7 @@ namespace PyramidPanic
             }
         }
 
-        //Updata
+        //Update
         public void Update(GameTime gameTime)
         {
             if (Input.EdgeDetectKeyDown(Keys.Escape))
