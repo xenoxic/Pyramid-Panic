@@ -27,3 +27,13 @@ C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsG
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Panel\Panel.xnb
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Panel\Lives.xnb
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Fonts\Arial.xnb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Scorpion\Scorpion.xnb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\10.txt
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\2.txt
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\3.txt
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\4.txt
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\5.txt
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\6.txt
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\7.txt
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\8.txt
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\9.txt

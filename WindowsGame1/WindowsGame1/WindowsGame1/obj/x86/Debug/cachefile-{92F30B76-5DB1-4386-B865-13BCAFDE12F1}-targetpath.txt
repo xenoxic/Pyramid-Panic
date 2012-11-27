@@ -19,5 +19,15 @@ Content\PlaySceneAssets\Block\Door.xnb
 Content\PlaySceneAssets\Panel\Panel.xnb
 Content\PlaySceneAssets\Panel\Lives.xnb
 Content\PlaySceneAssets\Fonts\Arial.xnb
+Content\PlaySceneAssets\Scorpion\Scorpion.xnb
 Content\PlaySceneAssets\Levels\0.txt
 Content\PlaySceneAssets\Levels\1.txt
+Content\PlaySceneAssets\Levels\10.txt
+Content\PlaySceneAssets\Levels\2.txt
+Content\PlaySceneAssets\Levels\3.txt
+Content\PlaySceneAssets\Levels\4.txt
+Content\PlaySceneAssets\Levels\5.txt
+Content\PlaySceneAssets\Levels\6.txt
+Content\PlaySceneAssets\Levels\7.txt
+Content\PlaySceneAssets\Levels\8.txt
+Content\PlaySceneAssets\Levels\9.txt

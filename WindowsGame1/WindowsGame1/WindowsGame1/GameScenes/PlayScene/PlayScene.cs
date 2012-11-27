@@ -44,11 +44,12 @@ namespace PyramidPanic
             {
                 this.game.GameState = new StartScene(this.game);
             }
-         /* if (Input.MouseEdgeDetectPressLeft())
+            /*
+            if (Input.MouseEdgeDetectPressLeft())
             {
                 this.game.Exit();
-            }
-            this.level.Update(gameTime); */
+            }*/
+            this.level.Update(gameTime); 
         }
 
         //Draw

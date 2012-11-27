@@ -1,0 +1,27 @@
+@wwwxywwxwwxwyxwwxwy
+x..................x
+w..................w
+y..................w
+w..................x
+w..................w
+w..................w
+x..................x
+y..................w
+w..................w
+w..................x
+x..................w
+y..................w
+wxwyywwxxwwwwxxxwwwy
+....................
+
+
+. 	= waar je loopt
+w,x,y 	= een muur
+a 	= treasure 1 (punten voor je score)
+b 	= treasure 2 (punten voor je score)
+c 	= potion (extra leven)
+d	= scarab (speciale kracht om vijanden te killen
+z	= uitgang
+
+De vijanden hebben nog geen code (ik heb ze nog niet xD)
+PS: niet de buitenste randen vervangen

@@ -25,6 +25,7 @@ namespace PyramidPanic
         private Image background;
         private List<Image> treasures;
         private Panel panel;
+        private Scorpion scorpion;
 
         //Consturctor
         public Level(PyramidPanic game, int levelIndex)
@@ -80,6 +81,9 @@ namespace PyramidPanic
                 case 'd':
                     this.treasures.Add(new Image(this.game, @"PlaySceneAssets\Treasures\Scarab", new Vector2(x, y)));
                     return new Block(this.game, @"Transparant", new Vector2(x, y), BlockCollision.Passable, 'd');
+                case 's':
+                    this.scorpion = new Scorpion(this.game, new Vector2(x, y), 2.0f);
+                    return new Block(this.game, @"Transparant", new Vector2(x, y), BlockCollision.Passable, 's');
                 case 'w':
                     return new Block(this.game, @"Block", new Vector2(x, y), BlockCollision.NotPassable, 'w');                 
                 case 'x':
@@ -99,11 +103,14 @@ namespace PyramidPanic
             }
         }
 
+        //Update
         public void Update(GameTime gameTime)
         {
-
+            this.scorpion.Update(gameTime);
         }
         
+
+        //Draw
         public void Draw(GameTime gameTime)
         {
             this.background.Draw(gameTime);
@@ -121,6 +128,7 @@ namespace PyramidPanic
                     treasure.Draw(gameTime);
 
                 }
+                this.scorpion.Draw(gameTime);
                 
         }
     }
