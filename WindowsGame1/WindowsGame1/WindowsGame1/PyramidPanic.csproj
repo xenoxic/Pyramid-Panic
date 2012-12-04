@@ -121,6 +121,7 @@
     <Compile Include="GameScenes\PlayScene\Block\Block.cs" />
     <Compile Include="GameScenes\Quit\QuitScene.cs" />
     <Compile Include="GameScenes\ScoreScene\ScoreScene.cs" />
+    <Compile Include="IAnimatedSprite.cs" />
     <Compile Include="Input\HelperClasses\Image.cs" />
     <Compile Include="GameScenes\StartScene\StartScene.cs" />
     <Compile Include="Input\HelperClasses\Input.cs" />
