@@ -1,5 +1,3 @@
-C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Button_help.xnb
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Button_leveleditor.xnb
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartSceneAssets\Button_load.xnb
@@ -13,12 +11,6 @@ C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsG
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Block\Wall1.xnb
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Block\Wall2.xnb
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Background\Background2.xnb
-C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\0.txt
-C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\1.txt
-C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\PyramidPanic.exe
-C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\PyramidPanic.pdb
-C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\PyramidPanic.exe
-C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\PyramidPanic.pdb
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Treasures\Treasure1.xnb
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Treasures\Treasure2.xnb
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Treasures\Scarab.xnb
@@ -26,8 +18,11 @@ C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsG
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Block\Door.xnb
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Panel\Panel.xnb
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Panel\Lives.xnb
-C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Fonts\Arial.xnb
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Scorpion\Scorpion.xnb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Beetles\Beetle.xnb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Fonts\Arial.xnb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\0.txt
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\1.txt
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\10.txt
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\2.txt
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\3.txt
@@ -37,3 +32,9 @@ C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsG
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\7.txt
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\8.txt
 C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\PlaySceneAssets\Levels\9.txt
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\PyramidPanic.exe
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\PyramidPanic.pdb
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\PyramidPanic.exe
+C:\Users\Timon\Documents\Visual Studio 2010\Projects\blok2\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\PyramidPanic.pdb
